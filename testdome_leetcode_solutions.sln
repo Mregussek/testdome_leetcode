@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "00_sandbox", "00_sandbox\00
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testdome_binary_search_tree", "testdome_binary_search_tree\testdome_binary_search_tree.vcxproj", "{AC294C62-440E-463B-A5B7-3846CF0BB54E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_24_swap_nodes_in_pairs", "leetcode_24_swap_nodes_in_pairs\leetcode_24_swap_nodes_in_pairs.vcxproj", "{8641D517-2E95-4849-9EB9-18FEA61D8327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{AC294C62-440E-463B-A5B7-3846CF0BB54E}.Release|x64.Build.0 = Release|x64
 		{AC294C62-440E-463B-A5B7-3846CF0BB54E}.Release|x86.ActiveCfg = Release|Win32
 		{AC294C62-440E-463B-A5B7-3846CF0BB54E}.Release|x86.Build.0 = Release|Win32
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Debug|x64.ActiveCfg = Debug|x64
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Debug|x64.Build.0 = Debug|x64
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Debug|x86.ActiveCfg = Debug|Win32
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Debug|x86.Build.0 = Debug|Win32
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Release|x64.ActiveCfg = Release|x64
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Release|x64.Build.0 = Release|x64
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Release|x86.ActiveCfg = Release|Win32
+		{8641D517-2E95-4849-9EB9-18FEA61D8327}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
